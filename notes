@@ -1,0 +1,2 @@
+# Access all the agents with:
+self.model.schedule.agents
