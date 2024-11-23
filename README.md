@@ -8,5 +8,6 @@ example, see the following 50 frame GIF:
 
 The initial and final states of the evolution are as follows:
 
-![Initial state](img/1.png)
-![Initial state](img/50.png)
+Initial state             |  Equilibrium state
+:-------------------------:|:-------------------------:
+![Initial state](img/1.png)  |  ![Initial state](img/50.png)
