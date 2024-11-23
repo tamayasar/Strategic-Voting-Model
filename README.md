@@ -4,7 +4,9 @@ This model is an agent-based model that is built on cellular automation. The aim
 the model can actually be thought of a more abstract framework for studying opinion formation in general. To demonstrate with an
 example, see the following 50 frame GIF:
 
-![Evolution of strategic voting](img/evolution.gif)
+<p align="center">
+  <img src="img/evolution.gif" />
+</p>
 
 The initial and final states of the evolution are as follows:
 
